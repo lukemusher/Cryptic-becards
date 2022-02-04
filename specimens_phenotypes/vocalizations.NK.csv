@@ -1,0 +1,32 @@
+﻿Taxon,Country,Latitude,Longitude,Catalogue.no,phrase.duration,penultimate.note.duration,last.note.duration,duration.rising.portion,max.freq.falling.portion,min.freq.falling.portion,freq.interval.falling.portion.last.note,min.freq.last.note,max.freq.last.note,freq.interval.last.note,freq.ratio.last.note,remarks
+P. a. ornatus,Costa Rica,9.1279,-83.0664,ML240493071,0.97,0.31,0.36,0.11,3097,2646,451,2646,3456,810,56,3-noted
+P. a. ornatus,Costa Rica,9.8277,-83.7722,ML234026281,1.2,0.3,0.36,0.12,3016,2669,347,2641,3371,730,48,3-noted (4; but first not included)
+P. a. albogriseus,Colombia,8.2166,-73.2333,ML266659,1.13,0.33,0.36,0.1,2708,2346,362,2184,2969,785,46,3-noted (middle note broken)
+P. a. albogriseus,Venezuela,8.283333333,-71.15,XC227117 (also as ML289135),1.03,0.14,0.41,0.16,2821,2585,236,2446,3564,1118,21,3-noted (middle note broken)
+P. a. albogriseus,Venezuela,8.75,-71.46666667,XC227118,NA,NA,0.54,0.11,2547,2270,277,2835,4117,1282,22,
+P. a. albogriseus,Venezuela,9.2434175,-70.7858515,ML319655001,1.5,0.16,0.6,0.14,2516,2207,309,2222,3105,883,35,4-noted
+P. a. albogriseus,Venezuela,10.36666667,-67.08333333,XC227120,0.81,,0.33,0.18,2838,2557,281,2615,4034,1419,20,only last note
+P. a. albogriseus,Venezuela,10.3667,-67.6833,ML62590,0.8,0.29,0.34,0.18,2800,2401,399,2362,3753,1391,29,2-noted
+P. a. albogriseus,Venezuela,10.3667,-67.6833,ML111896,0.8,0.31,0.33,0.17,2757,2409,348,2355,3700,1345,26,2-noted
+P. a. albogriseus,Venezuela,10.3667,-67.6833,ML62589,NA,NA,0.31,0.15,2583,2352,231,2294,3671,1377,17,only last note included
+P. a. albogriseus,Venezuela,10.42,-67.28,ML62588,0.85,0.32,0.33,0.11,2909,2522,387,2410,4594,2184,18,2-noted
+P. a. albogriseus,Venezuela,10.42,-67.28,ML62586,0.88,0.32,0.34,0.13,2849,2469,380,2364,3518,1154,33,2-noted
+P. a. albogriseus,Venezuela,,,ML62585,0.89,0.33,0.35,0.12,2810,2522,288,2414,3544,1130,25,2-noted
+P. a. albogriseus,Ecuador,-0.707,-77.746,XC264752,1.13,0.26,0.36,0.13,2961,2699,262,2581,3881,1300,20,4-noted; first note thrush-like and not included
+P. a. albogriseus,Ecuador,-2.95,-78.417,XC276322,1.5,0.2,NA,0.1,NA,NA,NA,2522,3120,598,NA,stutter
+P. a. albogriseus,Ecuador,-2.432,-78.049,XC276323,1.5,0.36,0.35,0.12,2995,2823,172,2813,3768,955,18,
+P. a. albogriseus,Ecuador,-2.432,-78.049,XC276324 (filtered version as XC262970),1.25,NA,0.29,0.17,2262,2105,157,2109,2947,838,19,4-noted
+P. a. albogriseus,Ecuador,-2.42,-78.06,XC249820,0.94,0.36,0.39,0.12,2903,2638,265,2313,3137,824,32,2-noted
+P. a. albogriseus,Ecuador,-3.847727,-78.53897,ML363424781; ML363424791; ML363424801 (also XC696088; 696089; 696090),1.8,0.24,0.3,0.12,2569,2314,255,2371,3866,1495,17,4-noted
+P. a. albogriseus,Peru,-7.3688,-76.2952,XC150850,0.92,0.38,0.41,0.15,2862,2436,426,2432,3971,1539,28,2-noted
+P. salvini,Ecuador,0.0287,-78.8628,XC108575/ML46119271,0.4,0.1,0.14,0.09,3485,2728,757,2728,3466,738,103,
+P. salvini,Ecuador,-1.673,-80.786,XC260979,0.45,0.09,0.16,0.1,3574,2822,752,2822,3766,944,80,
+P. salvini,Ecuador,-2.159,-80.037,ML122722,0.42,0.09,0.16,0.08,3440,3043,397,3043,3376,333,119,
+P. salvini,Ecuador,-4.0361,-79.651,ML313249031,0.45,0.12,0.16,0.1,3308,2697,611,2810,3452,642,95,
+P. salvini,Ecuador,-4.377,-79.903,XC251294 (also ML248884),0.48,0.13,0.17,0.07,3375,2655,720,2926,3296,370,195,
+P. salvini,Ecuador,-4.3115,-79.8565,ML203929851,0.42,0.11,0.17,0.1,3300,2872,428,2826,3207,381,112,
+P. salvini,Ecuador,-3.2524,-78.6873,XC675848,0.47,0.1,0.16,0.07,3303,3004,299,3069,3562,493,61,
+P. salvini,Peru,,,ML18344,0.47,0.14,0.15,0.09,3487,2917,570,2663,3406,743,77,
+P. salvini,Peru,-5.7078,-79.7251,XC297106,0.44,0.1,0.15,0.07,3511,2756,755,2793,3432,639,118,
+P. salvini,Peru,-5.3448,-78.8848,XC227116 (also ML297301),0.41,0.08,0.13,NA,NA,NA,NA,NA,NA,NA,NA,poor recording
+P. salvini,Peru,-9.647,-76.057,XC54569,0.49,0.13,0.13,0.06,3368,2723,645,2766,3158,392,165,

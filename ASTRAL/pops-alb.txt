@@ -1,0 +1,12 @@
+Tityra_cayana:Tityra_cayan_L3145
+P_marginatus:P_nanus_3866
+P_major:P_major1195
+P_uropygialis:P_uropygialis101156,P_uropyg107848
+P_ornatus:P_ornatus41620
+P_salvini:P_salvini6079,P_salv8114
+P_albogriseus:P_albogr_494147,P_coronatus387453
+P_polychopterus:P_nigri275,P_pol392915,P_spi6149
+P_similis:P_sim60813,P_similis108370
+P_dorsalis:Pac_dor282130
+P_guayaquilensis:P_guay33362,P_guay_L33450
+
