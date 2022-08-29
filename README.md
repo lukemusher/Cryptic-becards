@@ -5,13 +5,13 @@
 ########## suboscine bird (Pachyramphus albogriseus) Ornithology 
 
 #####1. ASTRAL folder 
-#contains gene trees (.trees files), population keys (populations.txt), and output trees (_out.tre files)
-#This includes both 95% complete (all included loci have sequence for ≥ 95% of samples) and 50% complete datasets (all included loci have sequence for ≥ 50% of samples) 
+#contains gene trees (.trees files), population keys (populations.txt), and output trees (_out.tre files) 
+#This includes both 95% complete (all included loci have sequence for ≥ 95% of samples) and 50% complete datasets (all included loci have sequence for ≥ 50% of samples)  
 
 ###2. concatenated_phylogeny folder 
-#contains data matrices (.phylip files) for replicating RAxML analyses and results (RAxML_bestTree files for maximum likelihood tree topology search, RAxml_bootstrap files for bootstrap replicates, and RAxML_bipartitions files for best tree with bootstrap values)
-#This includes both 95% complete (all included loci have sequence for ≥ 95% of samples) 
-#and 50% complete datasets (all included loci have sequence for ≥ 50% of samples) 
+#contains data matrices (.phylip files) for replicating RAxML analyses and results (RAxML_bestTree files for maximum likelihood tree topology search, RAxml_bootstrap files for bootstrap replicates, and RAxML_bipartitions files for best tree with bootstrap values) 
+#This includes both 95% complete (all included loci have sequence for ≥ 95% of samples)  
+#and 50% complete datasets (all included loci have sequence for ≥ 50% of samples)  
 
 #3. phenotype_and_vocal_analysis floder 
 #contains data for R scripts for replicating morphological and vocal analyses
