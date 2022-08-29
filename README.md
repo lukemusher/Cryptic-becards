@@ -1,8 +1,8 @@
 ########## Data and scripts for replicating analyses in  
-########## Musher, Krabbe, & Areta. (2022) "Underestimated
+########## Musher, Krabbe, & Areta. (2022) "Underestimated 
 ########## Neotropical diversity: Integrative taxonomy    
 ########## reveals two unrelated look-alike species in a  
-########## suboscine bird (Pachyramphus albogriseus)" Ornithology
+########## suboscine bird (Pachyramphus albogriseus)" Ornithology 
 
 #####1. ASTRAL folder 
 #contains gene trees (.trees files), population keys (populations.txt), and output trees (_out.tre files)
